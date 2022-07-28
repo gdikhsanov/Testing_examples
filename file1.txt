@@ -1,12 +1,7 @@
-
-<<<<<<< HEAD
-testing line
-=======
-untesting line
->>>>>>> 86aa48106b3ed6095b64b897e29f4cb339151ed5
 commit test
 456
 789. 
 add line
 new branch line
 new line for GUI
+123
